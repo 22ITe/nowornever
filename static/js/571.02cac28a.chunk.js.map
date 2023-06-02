@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/571.02cac28a.chunk.js","mappings":"+IAMA,MAJA,SAAoBA,GAChB,OAD2BA,EAARC,QAEvB,C","sources":["components/GlobalStyles/index.js"],"sourcesContent":["import './GlobalStyles.scss';\r\n\r\nfunction GlobalStyle({ children }) {\r\n    return children;\r\n}\r\n\r\nexport default GlobalStyle;\r\n"],"names":["_ref","children"],"sourceRoot":""}
